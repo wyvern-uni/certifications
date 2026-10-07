@@ -6,7 +6,7 @@ My full certification record. Sorted by category, newest first.
 
 | Certification | Issuer | Issued | Verify |
 |---|---|---|---|
-| API Security Fundamentals | APIsec University | Oct 2026 | [Link]((https://www.credly.com/badges/e5ea4958-511a-4aad-82df-0491f73d94f3/public_url)) |
+| API Security Fundamentals | APIsec University | Oct 2026 | [Link](https://www.credly.com/badges/e5ea4958-511a-4aad-82df-0491f73d94f3/public_url) |
 
 ## 🤖 AI & Emerging Tech
 
